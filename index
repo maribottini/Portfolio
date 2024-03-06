@@ -1,0 +1,29 @@
+portfolio/
+│
+├── Statistics2022/
+│   ├── Statistic-Project-R.html
+│   └── Statistic Project.pdf
+│
+├── Machine_Learning2023/
+│   ├── Machine Learning Project.html
+│  
+├── Biostatistics2023/
+│   ├── Biostatistics Project.pdf
+│   ├── dataset1_studies.html
+│   ├── dataset2_studies.html
+│   └── statistical obesity survey (answers ITA).xlsx
+│
+│── Structural_Chemistry2023/
+│   ├── Structural Chemistry Project.pdf
+│
+├── Genomics2023/
+│   ├── genomics project report.pdf
+│
+├── Trascriptomicss2024/
+│   ├── Trascriptomics Projects.pdf
+│   ├── Bulk-RNA-seq.html
+│   └──  Single-cell-RNA-seq.html
+│   
+└── Scientific_Programming2024/
+    ├── Python_Project.html
+    └── R Project.html
