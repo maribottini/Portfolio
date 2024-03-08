@@ -1,4 +1,4 @@
-<h1>Hi, I'm Maria Chiara! <br/> Biotechnologist</a>, Bioinformatics undergraduate</a>, Programmer</a></h1>
+<h1>Hi, I'm Maria Chiara! <br/> Biotechnologist</a>,Programmer</a> and Bioinformatics undergraduate.</a></h1>
 
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
