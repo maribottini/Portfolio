@@ -20,4 +20,14 @@
   - [Trascriptomics Projects.pdf](https://github.com/maribottini/Portfolio/files/14538536/Trascriptomics.Projects.pdf)
   - [Bulk-RNA-seq.pdf](https://github.com/maribottini/Portfolio/files/14538541/Bulk-RNA-seq.pdf)
   -  [Single-Cell-RNA-seq.pdf](https://github.com/maribottini/Portfolio/files/14538547/Single-Cell-RNA-seq.pdf)
+- <b> Scientific Programming [2024]
+  - <b> R Package (S4 classes package for genomic informations)
+    - [R Package Directory] 
+  - <b> Python Project (Knuth-Morris-Pratt algorithm to identify in parallel, with multiprocessing, all matches of sequences within the longer genome sequence)
+    - [Python Project Directory](Scientific_Programming/PythonProject/)
+- Epigenomics Project (ChIP-Seq Data Analysis of SMAD3) [2024]
+  - [Epigenomics-Presentation.pdf](https://github.com/user-attachments/files/16310028/Epigenomics-Presentation.pdf)
+  - [Epigenomics-Report.docx](https://github.com/user-attachments/files/16310030/Epigenomics-Report.docx)
+
+
 
