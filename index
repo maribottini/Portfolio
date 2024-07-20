@@ -17,13 +17,17 @@ portfolio/
 │   ├── Structural Chemistry Project.pdf
 │
 ├── Genomics2023/
-│   ├── genomics project report.pdf
+│   ├── Genomics Project Report.pdf
 │
 ├── Trascriptomicss2024/
 │   ├── Trascriptomics Projects.pdf
 │   ├── Bulk-RNA-seq.html
 │   └──  Single-cell-RNA-seq.html
-│   
-└── Scientific_Programming2024/
-    ├── Python_Project.html
-    └── R Project.html
+│
+├── Scientific_Programming2024/
+│   ├── R Package Directory
+│   └── Python Project Directory
+│
+└── Epigenomics2024/
+    ├── Epigenomics-Presentation.pdf
+    └── Epigenomics-Report.docs
