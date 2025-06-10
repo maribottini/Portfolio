@@ -28,6 +28,10 @@
 - Epigenomics Project (ChIP-Seq Data Analysis of SMAD3) [2024]
   - [Epigenomics-Presentation.pdf](https://github.com/user-attachments/files/16310028/Epigenomics-Presentation.pdf)
   - [Epigenomics-Report.docx](https://github.com/user-attachments/files/16310030/Epigenomics-Report.docx)
+- <b>Advancanced Genomicsed Genomics (Analysis of the correlation between percent identity of the full-length 16S gene and its subregions (V3–V4, V8, V9). Build a regression model and establish thresholds equivalent to a 97 % full-length identity)  [2025]
+  - [AdvanceGenomicsProject.pdf](https://github.com/user-attachments/files/20676565/Bottini_AdvanceGenomicsProject.pdf)
+
+
 
 
 
